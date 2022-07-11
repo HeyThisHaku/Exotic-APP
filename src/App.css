@@ -24,6 +24,13 @@
   color: white;
 }
 
+.dashboardContent{ 
+  background-color: rgb(250, 250, 250);
+  height: 100vh !important;
+  width: 100% !important;
+  position: fixed;
+}
+
 .App-link {
   color: #61dafb;
 }
